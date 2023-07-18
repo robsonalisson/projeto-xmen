@@ -1,7 +1,11 @@
 @media (max-width: 1120px){
+    *{
+        zoom: 1;
+    }
     .cabecalho .logo{
         max-width: 190px;
     }
+
 
     .selecao-de-personagens{
         flex-direction: column-reverse;
